@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "676517582fde35fc2d411921"
+  },
+  "ID Koleksi": 12321,
+  "Judul": "The Waste Lands",
+  "GMD": "Monograf",
+  "Pengarang": "Stephen King",
+  "Penerbitan": "New York: A Signet Book, 1991",
+  "Deskripsi Fisik": "590 Halaman ; 18 cm",
+  "Jenis Isi": "Teks",
+  "Jenis Media": "Tanpa Perantara",
+  "Jenis Wadah": "Volume",
+  "Nomor Standar": "ISBN 0451173317",
+  "Subjek": "Fiksi",
+  "Bahasa": "Inggris"
+},
+{
+  "_id": {
+    "$oid": "6765198b2fde35fc2d411922"
+  },
+  "ID Koleksi": 12322,
+  "Judul": "Padang Bulan",
+  "GMD": "Monograf",
+  "Pengarang": "Andrea Hirata",
+  "Penerbitan": "Yogyakarta: Bentang, 2016",
+  "Deskripsi Fisik": "209 halaman : Ilustrasi ; 28 cm",
+  "Jenis Isi": "Teks",
+  "Jenis Media": "Tanpa Perantara",
+  "Jenis Wadah": "Volume",
+  "Nomor Standar": "ISBN 978602881130",
+  "Subjek": "Fiksi Indonesia",
+  "Bahasa": "Indonesia"
+},
+{
+  "_id": {
+    "$oid": "6765198f2fde35fc2d411923"
+  },
+  "ID Koleksi": 12323,
+  "Judul": "The Seven Husbands of Evelyn Hugo",
+  "GMD": "Monograf",
+  "Pengarang": "Taylor Jenkins Reid",
+  "Penerbitan": "New York: Atria Books, 2017",
+  "Deskripsi Fisik": "389 halaman ; 24 cm",
+  "Jenis Isi": "Teks",
+  "Jenis Media": "Tanpa Perantara",
+  "Jenis Wadah": "Volume",
+  "Nomor Standar": "ISBN 9781501139239",
+  "Subjek": "Fiksi Sejarah",
+  "Bahasa": "Inggris"
+}]

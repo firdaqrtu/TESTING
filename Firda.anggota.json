@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "676516542fde35fc2d41191c"
+  },
+  "ID": 123456789,
+  "Nama": "Asahina Mafuyu",
+  "Jenis Kelamin": "Perempuan",
+  "Alamat": "Jalan Miyamasuzuka",
+  "Status Keanggotaan": "Aktif"
+},
+{
+  "_id": {
+    "$oid": "6765169a2fde35fc2d41191d"
+  },
+  "ID": 123456788,
+  "Nama": "Shinonome Ena",
+  "Jenis Kelamin": "Perempuan",
+  "Alamat": "Jalan Kamiyama",
+  "Status Keanggotaan": "Aktif"
+},
+{
+  "_id": {
+    "$oid": "6765169c2fde35fc2d41191e"
+  },
+  "ID": 123456787,
+  "Nama": "Akiyama Mizuki",
+  "Jenis Kelamin": "Perempuan",
+  "Alamat": "Jalan Shibuya",
+  "Status Keanggotaan": "Aktif"
+}]

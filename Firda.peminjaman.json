@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "67651b112fde35fc2d411927"
+  },
+  "ID Koleksi": "12321",
+  "ID Peminjam": "123456789",
+  "Nama Peminjam": "Asahina Mafuyu",
+  "Tanggal Peminjaman": "24 November 2024",
+  "Tanggal Pengembalian": "1 Desember 2024",
+  "Status Pengembalian": "Tuntas",
+  "Denda": "-"
+},
+{
+  "_id": {
+    "$oid": "67651ba62fde35fc2d411928"
+  },
+  "ID Koleksi": "12322",
+  "ID Peminjam": "123456788",
+  "Nama Peminjam": "Shinonome Ena",
+  "Tanggal Peminjaman": "13 Oktober 2024",
+  "Tanggal Pengembalian": "20 Oktober 2024",
+  "Status Pengembalian": "Tuntas",
+  "Denda": "Rp 1000"
+},
+{
+  "_id": {
+    "$oid": "67651ba92fde35fc2d411929"
+  },
+  "ID Koleksi": "12323",
+  "ID Peminjam": "123456787",
+  "Nama Peminjam": "Akiyama Mizuki",
+  "Tanggal Peminjaman": "30 Oktober 2024",
+  "Tanggal Pengembalian": "5 November 2024",
+  "Status Pengembalian": "Tuntas",
+  "Denda": "-"
+}]

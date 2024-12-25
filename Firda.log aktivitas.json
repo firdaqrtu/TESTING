@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "67651f1b2fde35fc2d41194f"
+  },
+  "ID Staf": "54321",
+  "Nama": "Megurine Luka",
+  "Waktu Login": "08.00 AM 17 Desember 2024",
+  "Durasi Login": "8 Jam",
+  "Aktivitas": "menambahkan bibliografi"
+},
+{
+  "_id": {
+    "$oid": "67651f752fde35fc2d411952"
+  },
+  "ID Staf": "54322",
+  "Nama": "Hatsune Miku",
+  "Waktu Login": "09.00 AM 17 Desember 2024",
+  "Durasi Login": "7 Jam",
+  "Aktivitas": "mengedit bibliografi"
+},
+{
+  "_id": {
+    "$oid": "67651f912fde35fc2d411953"
+  },
+  "ID Staf": "54323",
+  "Nama": "Takahashi Toru",
+  "Waktu Login": "09.00 AM 17 Desember 2024",
+  "Durasi Login": "7 Jam",
+  "Aktivitas": "mengedit bibliografi"
+}]

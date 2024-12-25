@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "67651df62fde35fc2d411946"
+  },
+  "Nomor Rak": "01",
+  "Jumlah Koleksi": "250",
+  "Klasifikasi": "800-900"
+},
+{
+  "_id": {
+    "$oid": "67651e402fde35fc2d411947"
+  },
+  "Nomor Rak": "02",
+  "Jumlah Koleksi": "200",
+  "Klasifikasi": "700-800"
+},
+{
+  "_id": {
+    "$oid": "67651e442fde35fc2d411948"
+  },
+  "Nomor Rak": "01",
+  "Jumlah Koleksi": "250",
+  "Klasifikasi": "001-100"
+}]

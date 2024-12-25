@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "67651c9a2fde35fc2d41192e"
+  },
+  "ID Staf": "54321",
+  "Nama": "Megurine Luka",
+  "Jenis Kelamin": "Perempuan",
+  "Alamat": "Jalan Kosong",
+  "Permission": "super admin"
+},
+{
+  "_id": {
+    "$oid": "67651ce62fde35fc2d41192f"
+  },
+  "ID Staf": "54322",
+  "Nama": "Hatsune Miku",
+  "Jenis Kelamin": "Perempuan",
+  "Alamat": "Jalan Showtime",
+  "Permission": "super admin"
+},
+{
+  "_id": {
+    "$oid": "67651ce92fde35fc2d411930"
+  },
+  "ID Staf": "54323",
+  "Nama": "Takahashi Toru",
+  "Jenis Kelamin": "Perempuan",
+  "Alamat": "Jalan Chiba",
+  "Permission": "admin"
+}]
